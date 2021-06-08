@@ -1,0 +1,13 @@
+pandas
+dask[complete]
+dask-ml[complete]
+scikit-learn
+scipy
+statsmodels
+xgboost
+matplotlib
+seaborn
+luigi
+jedi==0.17.2
+graphviz
+imbalanced-learn
